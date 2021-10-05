@@ -59,8 +59,7 @@ Following lines define the dependency of the claims:
 
 Claim 1 ("[1]") only depends on itself. Claim 2 ("[1]") depends on claim 1. Claim 3 ("[1,2]") depends on claim 1 and 2. And so on.
 
-
-Put this in the function "dependency_check()":
+Put this in the function "num_combinations()":
 
 <code>num_combinations(claim)</code> 
 
