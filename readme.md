@@ -1,4 +1,4 @@
-# Patent claim combination
+# Patent claim combinations
 
 ## Example
 
