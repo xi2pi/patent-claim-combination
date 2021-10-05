@@ -25,7 +25,7 @@ where claim 2 to 8 are subclaims of claim 1.
 **How many combinations of claims (and their features) are possible?**
 
 Solution:
-- combination 1:  claim 1
+- combination 1:  claim 1 (this is actually not really a combination of claims but let us count it as starting point)
 - combination 2:  claim 1 + claim 2
 - combination 3:  claim 1 + claim 2 + claim 3
 - combination 4:  claim 1 + claim 3
