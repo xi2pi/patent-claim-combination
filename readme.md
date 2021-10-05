@@ -22,7 +22,7 @@ Let us take the following example of patent claims:
 
 where claim 2 to 8 are subclaims of claim 1.
 
-How many combinations of claims (and their features) are possible?
+**How many combinations of claims (and their features) are possible?**
 
 Solution:
 - combination 1:  claim 1
